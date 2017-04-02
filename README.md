@@ -1,7 +1,7 @@
 # AP-Computer-Science-Assignments
 Assignments created as supplemental practice for the AP Computer Science A exam.
 
-_2DArrays: 
+<strong>_2DArrays: <strong/><br/>
 The student will complete the body of methods that are meant to access a certain region of values in a two-dimensional array. The file is well-commented with instructions. 
 Test_2DArrays: 
 A JUnit Test Class for this assignment.
